@@ -23,4 +23,5 @@ Welcome <?php echo $_SESSION["user"]; ?>. Click here to <a href="logout.php" tit
 </td>
 </tr>
 </body>
+
 </html>

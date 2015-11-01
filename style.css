@@ -1,0 +1,59 @@
+body
+{
+	text-align: center;
+}
+.header
+{
+	width: 700px;
+	height: 50px;
+	border: solid black 2px;
+	border-color: #548646;
+	border-radius: 15px;
+	background-color: #668796;
+	margin: 0px auto;
+	text-align: center;
+}
+.textBody
+{
+	width: 700px;
+	height: 600px;
+	border: solid black 2px;
+	border-color: #448646;
+	border-radius: 15px;
+	background-color: #768796;
+	margin: 0px auto;
+	text-align: center;
+}
+.textArea{
+	width: 690px;
+	height: 590px;
+	border: solid black 1px;
+	border-color: #548646;
+	border-radius: 15px;
+	background-color: #99CCFF;
+	margin: 0px auto;
+}
+.target
+{
+	width: 348px;
+	height: 48px;
+	border: solid black 1px;
+	border-color: #348646;
+	border-radius: 10px;
+	margin: 0px auto;
+	float: left;
+}
+.result
+{
+	width: 348px;
+	height: 48px;
+	border: solid black 1px;
+	border-color: #348646;
+	border-radius: 10px;
+	margin: 0px auto;
+	float: left;
+}
+.Languages
+{
+	float: right;
+}
